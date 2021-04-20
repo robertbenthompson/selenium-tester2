@@ -1,0 +1,11 @@
+*.class
+
+#idea
+/.idea
+
+#misc
+/SeleniumTester2.iml
+/SeleniumTester2.zip
+
+#maven
+/target
